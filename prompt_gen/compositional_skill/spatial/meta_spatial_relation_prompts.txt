@@ -1,0 +1,1002 @@
+a horse below a car.
+a dog on a banana.
+a chair below a horse.
+a dog under a airplane.
+a airplane under a horse.
+a horse above a airplane.
+a cat over a person.
+a horse above a cat.
+a car on a cat.
+a cat below a chair.
+a cat over a airplane.
+a banana on a horse.
+a person under a car.
+a airplane under a person.
+a car on the left of a airplane.
+a cat on the right of a airplane.
+a airplane above a chair.
+a dog on the left of a banana.
+a cat over a dog.
+a chair under a banana.
+a person on the right of a banana.
+a car on the left of a cat.
+a dog on the left of a horse.
+a car on the left of a person.
+a horse below a person.
+a banana below a horse.
+a person over a airplane.
+a dog on the right of a person.
+a chair on a cat.
+a dog on the left of a car.
+a cat on the left of a chair.
+a person above a airplane.
+a car over a banana.
+a cat on a person.
+a airplane above a car.
+a banana under a dog.
+a chair below a airplane.
+a dog below a banana.
+a airplane on the right of a banana.
+a airplane under a chair.
+a banana on the right of a chair.
+a chair on the right of a horse.
+a chair on a banana.
+a car over a horse.
+a horse on the left of a cat.
+a dog on a cat.
+a horse over a banana.
+a cat above a person.
+a airplane above a dog.
+a horse over a banana.
+a airplane above a chair.
+a person beneath a chair.
+a dog on a person.
+a chair above a banana.
+a airplane above a car.
+a cat above a airplane.
+a banana under a chair.
+a person above a banana.
+a car above a dog.
+a airplane below a horse.
+a dog on the left of a chair.
+a airplane on the right of a chair.
+a horse on the right of a banana.
+a person under a airplane.
+a banana on the right of a horse.
+a cat over a person.
+a chair on a airplane.
+a chair on the right of a banana.
+a airplane under a car.
+a banana on the left of a chair.
+a chair below a cat.
+a person on the left of a banana.
+a horse on the right of a person.
+a dog above a person.
+a chair below a cat.
+a cat on the right of a chair.
+a airplane under a car.
+a airplane on the left of a dog.
+a cat above a dog.
+a airplane below a horse.
+a car above a cat.
+a car above a cat.
+a dog under a horse.
+a chair over a airplane.
+a car over a cat.
+a dog on the left of a person.
+a chair under a cat.
+a chair beneath a airplane.
+a airplane beneath a banana.
+a banana below a chair.
+a cat beneath a airplane.
+a person below a horse.
+a cat below a dog.
+a chair under a person.
+a person above a cat.
+a person above a dog.
+a banana over a airplane.
+a cat on a banana.
+a car beneath a cat.
+a car beneath a cat.
+a dog over a car.
+a chair over a car.
+a airplane above a chair.
+a car on the left of a chair.
+a dog on the left of a banana.
+a person on the left of a airplane.
+a dog under a airplane.
+a banana on a chair.
+a cat below a horse.
+a airplane over a chair.
+a airplane below a person.
+a banana above a horse.
+a banana on the right of a horse.
+a airplane on the right of a dog.
+a dog above a chair.
+a chair above a person.
+a airplane under a horse.
+a chair above a horse.
+a chair under a car.
+a horse above a banana.
+a horse on the left of a banana.
+a person below a cat.
+a chair beneath a banana.
+a airplane on a chair.
+a cat below a dog.
+a horse under a dog.
+a airplane on the left of a horse.
+a person on the left of a dog.
+a person over a horse.
+a banana below a dog.
+a person on a airplane.
+a person on a chair.
+a cat on a chair.
+a person beneath a chair.
+a car on a chair.
+a horse above a cat.
+a car on the left of a chair.
+a cat below a car.
+a airplane over a dog.
+a dog over a airplane.
+a cat on the left of a airplane.
+a car on the left of a airplane.
+a cat on the left of a airplane.
+a chair beneath a dog.
+a dog below a car.
+a chair under a cat.
+a car on a airplane.
+a airplane on a horse.
+a chair under a banana.
+a airplane under a dog.
+a banana on the left of a dog.
+a dog below a cat.
+a chair above a banana.
+a banana on the right of a dog.
+a airplane on a dog.
+a dog on a airplane.
+a dog on the right of a horse.
+a car on the right of a chair.
+a person on a banana.
+a banana on a dog.
+a cat under a dog.
+a person above a chair.
+a cat below a chair.
+a horse above a car.
+a dog over a airplane.
+a cat above a chair.
+a chair on the right of a car.
+a horse on a car.
+a airplane above a person.
+a dog over a chair.
+a car beneath a cat.
+a horse on the right of a airplane.
+a person on the right of a horse.
+a dog above a banana.
+a horse on the right of a airplane.
+a cat on the left of a car.
+a chair on the right of a banana.
+a chair above a car.
+a horse above a car.
+a car below a airplane.
+a dog over a car.
+a dog beneath a person.
+a cat below a airplane.
+a horse on the right of a banana.
+a banana beneath a airplane.
+a chair over a banana.
+a dog on a chair.
+a cat over a dog.
+a cat on a car.
+a chair on a horse.
+a chair above a dog.
+a banana above a person.
+a car on the left of a banana.
+a cat beneath a dog.
+a person on the left of a horse.
+a car over a cat.
+a airplane beneath a car.
+a dog on the left of a horse.
+a dog beneath a car.
+a person above a dog.
+a person on the right of a horse.
+a person below a cat.
+a cat under a person.
+a dog above a chair.
+a airplane beneath a person.
+a cat on a dog.
+a banana on the right of a airplane.
+a car over a horse.
+a banana below a dog.
+a car on a dog.
+a car below a person.
+a cat on the right of a dog.
+a airplane below a car.
+a chair on a airplane.
+a banana above a horse.
+a car over a person.
+a airplane under a banana.
+a car above a chair.
+a cat beneath a airplane.
+a dog over a cat.
+a person under a cat.
+a cat below a person.
+a dog on a car.
+a horse beneath a chair.
+a person below a cat.
+a horse beneath a dog.
+a cat on the left of a horse.
+a car over a chair.
+a chair beneath a dog.
+a car over a airplane.
+a car below a cat.
+a horse beneath a cat.
+a person on the left of a horse.
+a person above a cat.
+a cat below a car.
+a horse on a airplane.
+a horse below a airplane.
+a car below a banana.
+a chair over a banana.
+a dog on the left of a person.
+a horse on a cat.
+a cat below a person.
+a dog on a chair.
+a car under a chair.
+a horse below a person.
+a dog on the right of a chair.
+a chair beneath a cat.
+a dog on a airplane.
+a car on a dog.
+a dog over a cat.
+a airplane on the right of a dog.
+a person over a airplane.
+a horse above a banana.
+a cat over a chair.
+a car below a dog.
+a banana on the right of a dog.
+a dog below a car.
+a banana beneath a dog.
+a horse beneath a airplane.
+a person on the right of a airplane.
+a airplane on the left of a car.
+a chair on the right of a airplane.
+a horse beneath a cat.
+a airplane over a car.
+a person on the left of a horse.
+a horse on the right of a car.
+a horse below a car.
+a person on a airplane.
+a chair under a dog.
+a horse under a car.
+a cat above a person.
+a car on a airplane.
+a airplane on the right of a person.
+a person on the left of a horse.
+a car above a chair.
+a person over a banana.
+a banana beneath a chair.
+a cat below a horse.
+a horse below a airplane.
+a dog on the right of a chair.
+a airplane on the right of a chair.
+a car on the left of a person.
+a airplane under a dog.
+a cat below a car.
+a banana on the left of a horse.
+a person on a banana.
+a person on the left of a airplane.
+a chair beneath a person.
+a chair under a cat.
+a cat on the left of a horse.
+a car on a horse.
+a banana over a person.
+a cat below a dog.
+a cat under a banana.
+a person on a cat.
+a airplane on the left of a banana.
+a banana on the left of a horse.
+a person on the right of a airplane.
+a cat under a airplane.
+a person above a chair.
+a cat beneath a dog.
+a car under a chair.
+a airplane on the left of a chair.
+a person on the left of a car.
+a chair below a car.
+a dog on the left of a car.
+a horse below a cat.
+a car above a horse.
+a cat on a banana.
+a banana under a person.
+a chair beneath a horse.
+a banana below a chair.
+a cat on the left of a car.
+a dog on the right of a cat.
+a banana on the left of a airplane.
+a dog on the left of a car.
+a horse beneath a dog.
+a horse on the right of a airplane.
+a chair above a airplane.
+a dog on the left of a airplane.
+a banana above a dog.
+a banana on the left of a person.
+a airplane on the left of a car.
+a dog on the left of a banana.
+a person beneath a chair.
+a horse below a airplane.
+a banana beneath a airplane.
+a cat on the left of a banana.
+a cat under a chair.
+a person under a cat.
+a banana on a person.
+a dog on a horse.
+a airplane on a horse.
+a dog on the left of a airplane.
+a car in the middle of banana and airplane.
+a banana above a dog and on a horse.
+a chair on the right of a airplane and on a horse.
+a horse on a dog and beneath a person.
+a person beneath a chair and under a dog.
+a banana beneath a car and on the right of a horse.
+a car above a horse and under a airplane.
+a person on the left of a chair and on a airplane.
+a car below a chair and above a airplane.
+a horse on a airplane and under a dog.
+a airplane among banana and car.
+a banana among chair and airplane.
+a banana in the middle of chair and cat.
+a chair on a car and below a person.
+a horse under a dog and below a person.
+a car on a dog and above a banana.
+a cat over a car and above a chair.
+a dog below a banana and on the right of a cat.
+a dog among banana and airplane.
+a airplane above a chair and on the left of a banana.
+a cat above a horse and on the right of a banana.
+a cat among dog and horse.
+a chair beneath a airplane and on a dog.
+a cat on a car and below a dog.
+a person on a cat and on the left of a dog.
+a cat under a car and on the right of a dog.
+a horse on a banana and beneath a chair.
+a car in the middle of airplane and dog.
+a dog on the right of a chair and over a banana.
+a cat under a car and over a airplane.
+a horse on a chair and on the left of a car.
+a chair among banana and airplane.
+a person above a car and on the left of a airplane.
+a airplane on the right of a horse and over a cat.
+a dog below a car and above a horse.
+a airplane among car and cat.
+a dog under a person and on a airplane.
+a person on the left of a banana and over a cat.
+a person on the right of a horse and below a car.
+a horse over a car and under a airplane.
+a horse above a chair and under a airplane.
+a banana under a person and on the left of a car.
+a horse in the middle of car and airplane.
+a banana on the right of a person and under a horse.
+a cat above a banana and on the right of a chair.
+a person over a cat and above a chair.
+a horse on a car and on the right of a chair.
+a banana below a airplane and under a car.
+a banana above a dog and under a horse.
+a dog on the left of a person and beneath a banana.
+a chair on a cat and on the left of a horse.
+a airplane between car and person.
+a banana beneath a cat and above a airplane.
+a airplane on a banana and on the right of a horse.
+a car on the left of a cat and under a banana.
+a person in the middle of banana and chair.
+a dog above a car and under a person.
+a airplane in the middle of cat and horse.
+a dog between person and banana.
+a banana under a airplane and beneath a person.
+a chair on the left of a car and beneath a person.
+a person under a banana and on the left of a cat.
+a person on the right of a airplane and under a banana.
+a chair over a horse and below a banana.
+a person in the middle of dog and airplane.
+a dog on a car and over a person.
+a airplane under a dog and on the right of a cat.
+a dog in the middle of banana and cat.
+a person above a dog and on the right of a cat.
+a banana on the left of a horse and under a dog.
+a banana above a horse and on the left of a car.
+a airplane under a horse and above a car.
+a cat on a horse and on the right of a airplane.
+a person above a banana and beneath a horse.
+a person between car and banana.
+a dog above a car and under a horse.
+a banana over a chair and on a airplane.
+a airplane below a horse and on the right of a chair.
+a horse on the left of a car and under a cat.
+a airplane on the left of a horse and under a dog.
+a chair on the right of a person and below a horse.
+a cat in the middle of chair and banana.
+a chair between cat and dog.
+a dog over a cat and above a airplane.
+a cat on a horse and on the right of a car.
+a person beneath a horse and above a chair.
+a dog on the left of a car and under a banana.
+a dog beneath a chair and on a banana.
+a airplane beneath a chair and on the left of a dog.
+a cat among banana and person.
+a horse in the middle of banana and airplane.
+a cat under a chair and below a horse.
+a cat on the left of a banana and under a chair.
+a dog on the left of a horse and over a chair.
+a cat under a person and above a dog.
+a car between banana and dog.
+a dog below a banana and over a horse.
+a cat under a dog and on the left of a person.
+a person above a chair and on the right of a airplane.
+a car over a horse and beneath a banana.
+a person over a dog and on a cat.
+a chair under a horse and on the right of a person.
+a banana in the middle of dog and person.
+a chair on the left of a airplane and on the right of a horse.
+a horse between cat and dog.
+a chair on a cat and above a dog.
+a cat above a horse and beneath a banana.
+a airplane on the left of a chair and on a person.
+a person on the right of a banana and on a cat.
+a banana on a cat and above a chair.
+a car between horse and chair.
+a dog above a cat and beneath a horse.
+a horse among banana and cat.
+a person below a cat and on the left of a horse.
+a cat on a person and beneath a airplane.
+a airplane on a person and beneath a chair.
+a horse above a chair and over a person.
+a horse beneath a cat and on the left of a person.
+a airplane in the middle of car and person.
+a horse on a banana and under a chair.
+a airplane in the middle of banana and horse.
+a airplane below a cat and under a person.
+a airplane on a person and beneath a chair.
+a cat among car and airplane.
+a person below a airplane and over a cat.
+a cat beneath a dog and over a car.
+a airplane over a chair and on a banana.
+a chair between dog and banana.
+a person on the right of a horse and under a car.
+a person beneath a dog and below a horse.
+a airplane over a cat and under a banana.
+a chair on the right of a airplane and on the left of a person.
+a chair under a horse and on the right of a banana.
+a person on the right of a dog and on a banana.
+a dog beneath a cat and on the left of a chair.
+a car among banana and dog.
+a airplane below a person and above a car.
+a dog on the left of a person and on the right of a cat.
+a person on a airplane and under a cat.
+a cat under a airplane and on a person.
+a cat under a chair and beneath a dog.
+a horse on the right of a dog and on a car.
+a airplane in the middle of horse and cat.
+a cat among person and banana.
+a airplane on a dog and beneath a horse.
+a person above a banana and over a chair.
+a dog on the right of a banana and over a car.
+a dog over a person and beneath a airplane.
+a car beneath a banana and over a cat.
+a banana on the left of a cat and above a horse.
+a dog on the left of a horse and below a banana.
+a dog on the right of a car and on the left of a chair.
+a car in the middle of dog and banana.
+a airplane above a chair and beneath a horse.
+a car among horse and airplane.
+a cat above a chair and over a person.
+a person below a car and over a cat.
+a dog in the middle of banana and car.
+a horse between cat and person.
+a dog on the left of a car and on the right of a airplane.
+a car below a person and beneath a banana.
+a cat under a chair and over a banana.
+a chair below a dog and on the right of a cat.
+a dog in the middle of car and cat.
+a car beneath a airplane and on the left of a horse.
+a chair under a person and above a horse.
+a banana on the left of a person and on the right of a car.
+a person among horse and dog.
+a airplane under a car and on the left of a cat.
+a person among dog and airplane.
+a person under a cat and on the left of a dog.
+a dog beneath a horse and on the right of a chair.
+a chair in the middle of person and airplane.
+a dog above a car and under a banana.
+a airplane beneath a cat and above a person.
+a banana between chair and cat.
+a airplane under a chair and on the left of a dog.
+a banana on the left of a person and over a dog.
+a airplane on the left of a car and on the right of a person.
+a banana over a airplane and above a chair.
+a person between chair and car.
+a cat in the middle of car and chair.
+a dog beneath a cat and below a banana.
+a horse on the right of a chair and on a banana.
+a person on the left of a cat and under a dog.
+a dog among airplane and banana.
+a chair among car and banana.
+a cat beneath a person and on the right of a airplane.
+a airplane below a chair and under a cat.
+a horse on a banana and under a car.
+a banana beneath a person and over a cat.
+a horse on the left of a banana and on the right of a dog.
+a banana on the left of a horse and over a dog.
+a cat between car and banana.
+a banana above a airplane and on the left of a person.
+a cat on the left of a chair and under a person.
+a dog above a airplane and on a banana.
+a dog on a banana and on the right of a horse.
+a airplane below a dog and on a banana.
+a banana on a airplane and below a horse.
+a airplane on the right of a person and on the left of a chair.
+a dog on the right of a chair and on a cat.
+a airplane above a chair and on the left of a horse.
+a car between airplane and horse.
+a airplane under a chair and below a horse.
+a chair among car and dog.
+a car between person and airplane.
+a banana beneath a person and on the left of a chair.
+a dog below a cat and above a car.
+a car on the right of a chair and below a cat.
+a banana below a airplane and above a car.
+a chair under a airplane and on the right of a banana.
+a dog above a airplane and under a person.
+a dog beneath a car and on the left of a person.
+a person on the left of a banana and over a horse.
+a cat below a car and under a banana.
+a horse under a dog and over a banana.
+a horse under a cat and below a airplane.
+a car under a horse and on the left of a airplane.
+a cat under a horse and on the right of a banana.
+a dog beneath a chair and under a person.
+a chair under a cat and beneath a dog.
+a airplane between cat and dog.
+a person above a chair and on a horse.
+a dog over a airplane and above a car.
+a chair beneath a person and above a horse.
+a chair on the right of a airplane and on the left of a car.
+a banana on the right of a car and over a dog.
+a dog on the right of a horse and under a person.
+a dog below a airplane and on the left of a person.
+a banana on a dog and beneath a airplane.
+a airplane under a chair and over a car.
+a chair under a horse and over a cat.
+a banana among cat and horse.
+a car over a person and on the left of a chair.
+a chair under a dog and on the left of a banana.
+a car in the middle of dog and cat.
+a car over a dog and on the left of a person.
+a horse under a airplane and on the right of a cat.
+a banana beneath a chair and below a cat.
+a cat above a horse and on a person.
+a chair above a person and on the right of a cat.
+a chair below a cat and on a person.
+a cat on the right of a horse and under a dog.
+a car below a dog and on the left of a chair.
+a airplane on the left of a dog and beneath a banana.
+a airplane on the left of a banana and under a dog.
+a person among airplane and horse.
+a dog beneath a cat and under a car.
+a car over a cat and on the right of a banana.
+a car on the left of a banana and under a airplane.
+a cat among airplane and person.
+a airplane beneath a person and under a horse.
+a chair over a cat and above a banana.
+a airplane on a banana and below a horse.
+a horse over a cat and on the left of a car.
+a chair on a car and above a airplane.
+a dog between chair and cat.
+a dog on the right of a horse and beneath a chair.
+a cat beneath a person and over a chair.
+a chair on the left of a banana and under a horse.
+a horse between person and chair.
+a cat over a person and beneath a dog.
+a cat on the right of a dog and on the left of a banana.
+a person over a horse and on the left of a banana.
+a person between chair and cat.
+a chair on the left of a cat and on a airplane.
+a dog among person and car.
+a cat on the right of a airplane and under a car.
+a horse under a chair and on the right of a person.
+a cat on the right of a chair and on a horse.
+a airplane under a dog and on a person.
+a person in the middle of horse and cat.
+a dog on the left of a person and on a chair.
+a dog on a horse and under a car.
+a car over a chair and under a airplane.
+a banana under a dog and beneath a airplane.
+a banana over a chair and on the left of a cat.
+a horse beneath a airplane and above a person.
+a banana beneath a airplane and on the left of a cat.
+a cat below a banana and on a chair.
+a airplane beneath a banana and on the right of a dog.
+a person above a airplane and under a chair.
+a person beneath a horse and under a chair.
+a car among chair and dog.
+a cat on the left of a banana and beneath a person.
+a cat above a chair and on the right of a dog.
+a person above a dog and over a horse.
+a banana beneath a dog and on the left of a person.
+a car beneath a dog and over a person.
+a airplane on a cat and on the left of a dog.
+a airplane over a dog and on the left of a chair.
+a car below a horse and on the left of a cat.
+a car below a airplane and above a person.
+a airplane below a horse and on the left of a banana.
+a cat under a car and over a chair.
+a cat among banana and dog.
+a person under a horse and on the left of a dog.
+a airplane above a car and on the right of a chair.
+a dog on a horse and above a car.
+a chair on a airplane and on the right of a cat.
+a dog on the left of a car and on a person.
+a cat in the middle of chair and dog.
+a cat above a dog and over a horse.
+a airplane below a banana and on the right of a car.
+a horse above a chair and on a dog.
+a airplane on a person and over a chair.
+a horse under a airplane and on a dog.
+a banana on the right of a cat and under a car.
+a car on the right of a dog and below a horse.
+a banana over a cat and below a chair.
+a banana below a airplane and above a chair.
+a dog between chair and airplane.
+a dog on the right of a airplane and beneath a car.
+a airplane over a horse and above a car.
+a car over a person and on the right of a horse.
+a cat beneath a person and above a horse.
+a chair among car and airplane.
+a cat above a car and over a chair.
+a person above a airplane and on the left of a car.
+a cat under a dog and below a horse.
+a horse below a person and under a chair.
+a person under a cat and on the right of a car.
+a person on a dog and beneath a airplane.
+a person over a dog and on a horse.
+a cat on a banana and on the right of a person.
+a banana on the left of a person and on the right of a dog.
+a airplane on a horse and on the right of a banana.
+a cat on a person and over a airplane.
+a banana among person and car.
+a person among airplane and horse.
+a horse on a banana and on the right of a chair.
+a chair over a car and on the left of a banana.
+a chair among airplane and dog.
+a person and chair on a cat and over a banana.
+a person and car over a chair and below a horse.
+a person and airplane beneath a horse and above a banana.
+a person and chair under a banana and over a car.
+a car and dog under a horse and on the left of a airplane.
+a car and a dog among horse and banana.
+a person and horse on a car and over a dog.
+a person and chair beneath a airplane and below a banana.
+a person and horse on a banana and below a car.
+a person and a car among airplane and banana.
+a car and a dog among horse and banana.
+a car and dog on a airplane and under a banana.
+a car and cat above a chair and on a dog.
+a person and airplane above a chair and under a cat.
+a cat and horse on a dog and below a banana.
+a person and car above a horse and on a chair.
+a car and chair on the left of a banana and beneath a cat.
+a car and horse on the right of a dog and over a banana.
+a car and a banana in the middle of dog and chair.
+a person and a cat among banana and chair.
+a car and a airplane among dog and cat.
+a airplane and dog beneath a horse and on the left of a cat.
+a person and a cat among chair and banana.
+a car and a chair between dog and airplane.
+a car and banana below a airplane and over a horse.
+a person and a banana between dog and chair.
+a cat and a horse between dog and banana.
+a car and cat beneath a airplane and below a banana.
+a car and a chair in the middle of cat and horse.
+a person and banana on the left of a horse and on the right of a dog.
+a person and airplane beneath a car and on the right of a cat.
+a car and horse above a cat and over a chair.
+a car and a banana in the middle of airplane and horse.
+a person and chair on the right of a airplane and on the left of a dog.
+a car and dog over a airplane and on a chair.
+a person and airplane on the left of a banana and under a cat.
+a airplane and a horse between dog and cat.
+a person and a chair among dog and banana.
+a car and horse over a airplane and below a dog.
+a person and horse above a car and on the right of a dog.
+a car and a horse in the middle of chair and cat.
+a car and banana below a chair and on a dog.
+a car and horse over a dog and under a cat.
+a person and airplane over a car and below a cat.
+a car and dog on the right of a airplane and beneath a chair.
+a person and banana under a chair and above a car.
+a person and airplane over a banana and under a chair.
+a cat and a dog among horse and chair.
+a airplane and dog below a chair and on a horse.
+a car and horse on the left of a banana and under a cat.
+a person and horse on a chair and under a car.
+a person and banana on a airplane and below a cat.
+a person and chair above a airplane and on the left of a horse.
+a person and horse over a banana and under a cat.
+a car and chair below a horse and beneath a dog.
+a person and dog under a car and over a airplane.
+a person and car on a chair and on the right of a dog.
+a person and banana below a dog and on the left of a car.
+a person and banana on the left of a chair and below a airplane.
+a car and horse beneath a airplane and above a dog.
+a car and chair beneath a banana and on the left of a dog.
+a person and banana beneath a chair and on the right of a horse.
+a airplane and banana below a chair and on the left of a dog.
+a airplane and chair on the left of a banana and on the right of a dog.
+a person and a banana in the middle of chair and dog.
+a airplane and dog above a horse and on the right of a cat.
+a car and a airplane among horse and cat.
+a airplane and dog on the right of a horse and on the left of a chair.
+a airplane and a dog among horse and cat.
+a person and airplane beneath a banana and on the left of a cat.
+a car and cat on the left of a horse and over a dog.
+a car and dog below a chair and over a airplane.
+a person and chair on a cat and beneath a banana.
+a cat and chair on the left of a dog and above a banana.
+a airplane and horse beneath a banana and on the left of a dog.
+a person and cat on a airplane and below a dog.
+a person and banana on a horse and on the right of a dog.
+a person and chair on a banana and on the left of a airplane.
+a car and banana over a horse and on the right of a dog.
+a person and banana on the right of a airplane and on the left of a horse.
+a person and dog beneath a banana and under a car.
+a cat and dog on a banana and above a horse.
+a car and cat over a banana and under a dog.
+a person and a cat among dog and banana.
+a airplane and chair beneath a dog and over a cat.
+a person and car under a chair and below a dog.
+a car and a chair among cat and banana.
+a airplane and dog beneath a chair and above a cat.
+a car and horse on a dog and on the right of a chair.
+a person and banana over a dog and on the left of a airplane.
+a person and a chair in the middle of horse and dog.
+a person and cat above a horse and under a chair.
+a car and a dog among airplane and chair.
+a person and horse on the left of a banana and on a car.
+a car and dog over a cat and on a banana.
+a person and horse beneath a cat and over a dog.
+a airplane and a banana between dog and horse.
+a person and a chair between airplane and car.
+a car and cat over a chair and on the right of a dog.
+a car and a airplane in the middle of dog and horse.
+a car and dog on the right of a banana and below a chair.
+a car and banana beneath a dog and below a airplane.
+a person and banana on the right of a car and on a dog.
+a person and car under a airplane and on the right of a horse.
+a person and a dog in the middle of airplane and horse.
+a car and a banana among airplane and chair.
+a person and banana on the left of a dog and beneath a car.
+a person and horse under a chair and below a banana.
+a person and chair above a car and beneath a horse.
+a person and horse beneath a car and on the right of a dog.
+a person and a car among cat and chair.
+a car and banana over a chair and on a dog.
+a person and horse on the right of a chair and below a airplane.
+a car and horse above a chair and beneath a cat.
+a airplane and horse beneath a chair and on the right of a banana.
+a person and airplane beneath a car and over a cat.
+a person and horse beneath a banana and under a dog.
+a person and banana above a cat and on a chair.
+a car and a airplane in the middle of horse and chair.
+a car and cat above a horse and below a airplane.
+a person and car on the left of a banana and under a chair.
+a car and a cat in the middle of dog and airplane.
+a person and chair under a cat and on the right of a banana.
+a person and car above a cat and on the left of a banana.
+a car and banana on the right of a airplane and on a cat.
+a person and airplane under a car and over a dog.
+a airplane and banana over a chair and beneath a cat.
+a cat and chair over a banana and above a horse.
+a person and chair on the left of a cat and on the right of a dog.
+a airplane and cat on the left of a chair and on the right of a banana.
+a person and horse over a banana and below a car.
+a airplane and chair on the right of a cat and above a horse.
+a person and horse on a chair and under a airplane.
+a airplane and horse below a cat and under a dog.
+a person and cat beneath a banana and above a airplane.
+a person and a dog among chair and horse.
+a person and car below a airplane and above a dog.
+a person and a cat among banana and horse.
+a person and chair above a dog and below a horse.
+a airplane and a dog in the middle of cat and chair.
+a cat and banana over a horse and on the right of a chair.
+a person and a airplane between banana and chair.
+a car and airplane beneath a dog and over a chair.
+a car and a dog between banana and horse.
+a airplane and chair under a cat and below a horse.
+a cat and dog below a banana and on a chair.
+a airplane and a chair between cat and horse.
+a person and airplane under a cat and beneath a car.
+a person and horse over a cat and beneath a car.
+a person and horse on the right of a cat and beneath a banana.
+a car and banana on the right of a airplane and under a dog.
+a person and dog on the right of a horse and on a chair.
+a airplane and banana on the left of a dog and under a cat.
+a person and dog over a banana and under a chair.
+a car and a banana in the middle of cat and airplane.
+a airplane and dog on the left of a horse and on a cat.
+a person and horse on a banana and beneath a cat.
+a person and dog on a car and on the left of a horse.
+a person and a airplane among horse and cat.
+a person and cat above a dog and under a banana.
+a person and chair on the left of a car and on a horse.
+a airplane and chair on a dog and above a cat.
+a person and horse on the left of a cat and above a dog.
+a airplane and cat on the left of a dog and under a banana.
+a car and dog on the right of a horse and on the left of a cat.
+a airplane and cat on the right of a dog and below a banana.
+a car and airplane above a horse and under a dog.
+a car and chair over a airplane and below a cat.
+a person and a car among banana and horse.
+a person and airplane on the right of a banana and beneath a horse.
+a person and banana on the right of a cat and below a dog.
+a car and cat under a banana and above a chair.
+a person and car over a dog and above a chair.
+a car and a horse in the middle of cat and dog.
+a person and car under a airplane and below a horse.
+a person and horse on the left of a car and on a cat.
+a person and airplane below a car and under a horse.
+a person and dog on the left of a horse and beneath a banana.
+a person and airplane under a banana and on the right of a cat.
+a person and airplane beneath a chair and on the left of a cat.
+a person and dog under a banana and above a horse.
+a person and a chair between airplane and horse.
+a airplane and chair under a banana and beneath a cat.
+a car and dog beneath a chair and under a horse.
+a person and a horse in the middle of dog and cat.
+a person and horse beneath a car and on a chair.
+a person and horse on the left of a chair and on a car.
+a car and chair beneath a banana and below a horse.
+a person and car above a airplane and under a dog.
+a person and a horse between dog and chair.
+a person and horse on the left of a dog and on a cat.
+a person and a chair between airplane and cat.
+a person and a dog in the middle of cat and banana.
+a person and car beneath a horse and below a chair.
+a airplane and cat below a banana and on a horse.
+a car and a chair between airplane and banana.
+a car and banana over a horse and beneath a cat.
+a airplane and dog on the right of a banana and on a horse.
+a person and car on the left of a horse and on a cat.
+a car and banana under a dog and over a cat.
+a airplane and dog beneath a cat and under a horse.
+a person and horse on the left of a car and above a banana.
+a airplane and a chair among horse and cat.
+a car and dog on a chair and beneath a airplane.
+a cat and a dog between banana and horse.
+a car and a horse among banana and dog.
+a person and banana over a airplane and on a car.
+a car and horse below a cat and beneath a airplane.
+a car and banana on the right of a horse and on a dog.
+a person and dog under a chair and above a cat.
+a airplane and banana over a dog and above a chair.
+a car and chair on the left of a banana and on the right of a dog.
+a person and car over a cat and under a chair.
+a person and banana over a dog and below a cat.
+a person and dog on a airplane and over a banana.
+a airplane and a chair among cat and banana.
+a person and horse on the right of a dog and on the left of a banana.
+a car and banana on a horse and on the left of a airplane.
+a person and dog under a cat and beneath a horse.
+a person and airplane beneath a horse and on the right of a dog.
+a car and cat on the left of a dog and beneath a airplane.
+a person and banana on the right of a chair and over a dog.
+a person and airplane on a cat and beneath a car.
+a car and chair over a airplane and below a banana.
+a person and airplane over a car and under a chair.
+a person and cat on a chair and on the right of a car.
+a car and airplane over a cat and on the left of a banana.
+a car and cat on the left of a horse and under a banana.
+a person and banana below a chair and over a car.
+a airplane and a banana among horse and cat.
+a person and airplane below a cat and on a car.
+a car and chair on the right of a airplane and below a dog.
+a person and banana on the left of a chair and above a dog.
+a person and a dog between chair and horse.
+a car and a horse between chair and dog.
+a car and airplane on the left of a banana and beneath a cat.
+a person and car on the left of a chair and above a airplane.
+a car and airplane over a banana and on the left of a chair.
+a airplane and banana beneath a chair and under a cat.
+a cat and dog over a chair and on the left of a horse.
+a cat and banana over a chair and on a dog.
+a car and horse under a chair and on the left of a airplane.
+a cat and a dog in the middle of horse and banana.
+a car and banana over a airplane and below a cat.
+a person and a dog among airplane and car.
+a car and cat on the left of a airplane and below a chair.
+a person and dog on a banana and on the right of a horse.
+a airplane and cat over a banana and on a dog.
+a person and airplane beneath a banana and on the right of a car.
+a person and a banana between horse and chair.
+a car and horse below a airplane and under a cat.
+a person and dog under a cat and beneath a chair.
+a airplane and chair above a horse and on a banana.
+a airplane and horse on a chair and on the right of a dog.
+a dog and chair above a horse and under a banana.
+a cat and a horse between banana and dog.
+a person and banana above a car and on the right of a cat.
+a person and a dog in the middle of horse and cat.
+a person and banana below a airplane and over a car.
+a person and a banana between car and horse.
+a car and a horse among airplane and banana.
+a airplane and banana on the right of a horse and below a chair.
+a person and airplane above a chair and on the left of a horse.
+a airplane and horse under a cat and over a banana.
+a airplane and chair under a banana and on the right of a horse.
+a person and chair on a banana and on the right of a dog.
+a car and horse beneath a chair and below a dog.
+a person and a car in the middle of cat and airplane.
+a airplane and chair on the left of a horse and below a dog.
+a car and dog above a chair and below a horse.
+a car and banana on the right of a horse and below a cat.
+a cat and dog on the left of a chair and above a horse.
+a airplane and dog on the left of a banana and on the right of a horse.
+a car and airplane over a banana and on a dog.
+a person and horse under a car and below a chair.
+a person and a airplane between dog and chair.
+a dog and chair beneath a banana and on a horse.
+a airplane and chair beneath a dog and on the left of a cat.
+a person and banana on the left of a airplane and under a car.
+a person and chair beneath a airplane and on a horse.
+a car and a airplane between chair and dog.
+a car and cat on the right of a airplane and below a chair.
+a person and chair beneath a banana and below a car.
+a person and a car between chair and horse.
+a car and a banana in the middle of chair and horse.
+a cat and dog on the right of a horse and on a chair.
+a person and chair under a horse and below a cat.
+a cat and chair on a horse and above a banana.
+a person and a dog in the middle of horse and banana.
+a person and dog under a horse and over a cat.
+a car and airplane below a horse and on a cat.
+a airplane and cat above a banana and over a chair.
+a car and banana on the left of a horse and above a airplane.
+a person and a horse between chair and banana.
+a airplane and banana on the right of a dog and beneath a chair.
+a person and car below a chair and over a airplane.
+a person and a horse among cat and chair.
+a car and dog under a horse and on the right of a cat.
+a car and cat above a airplane and below a horse.
+a car and horse on the right of a banana and above a dog.
+a person and car on the left of a banana and over a chair.
+a airplane and banana on the right of a cat and on a horse.
+a car and cat over a chair and above a dog.
+a cat and chair above a horse and below a dog.
+a person and banana above a car and below a cat.
+a car and airplane under a chair and above a banana.
+a person and banana on the right of a cat and over a dog.
+a airplane and chair over a horse and on the left of a dog.
+a person and car on the left of a chair and on the right of a banana.
+a car and horse on the left of a airplane and on the right of a chair.
+a car and cat on the left of a banana and on a chair.
+a car and dog below a horse and on the left of a airplane.
+a person and a dog in the middle of cat and chair.
+a car and a horse in the middle of chair and banana.
+a car and banana beneath a horse and over a cat.
+a car and dog over a cat and on the right of a chair.
+a car and chair below a horse and on the left of a banana.
+a person and a dog in the middle of banana and cat.
+a person and horse on the right of a cat and below a airplane.
+a person and dog above a horse and on a airplane.
+a cat and a chair in the middle of horse and banana.
+a person and a banana in the middle of dog and car.
+a car and airplane above a horse and on the right of a dog.
+a car and chair on a cat and under a airplane.
+a cat and banana on the left of a dog and over a chair.
+a person and chair on the right of a dog and beneath a banana.
+a person and cat on the left of a airplane and on the right of a dog.
+a person and horse beneath a dog and on a car.
+a airplane and horse on the right of a dog and on a cat.
+a person and horse over a cat and above a car.
+a airplane and banana under a dog and over a chair.
+a person and car over a dog and beneath a horse.
+a car and a cat in the middle of banana and chair.
+a person and cat on the right of a car and below a horse.

@@ -1,0 +1,501 @@
+a airplane and a car, the airplane is bigger than the car.
+a person and a horse, the person is larger than the horse.
+a horse and a chair, the horse is bigger than the chair.
+a horse and a banana, the horse is bigger than the banana.
+a horse and a airplane, the horse is smaller than the airplane.
+a airplane and a chair, the airplane is larger than the chair.
+a banana and a airplane, the banana is bigger than the airplane.
+a horse and a dog, the horse is larger than the dog.
+a banana and a person, the banana is smaller than the person.
+a airplane and a banana, the airplane is bigger than the banana.
+a car and a airplane, the car is bigger than the airplane.
+a horse and a person, the horse is bigger than the person.
+a car and a horse, the car is larger than the horse.
+a chair and a banana, the chair is larger than the banana.
+a person and a dog, the person is larger than the dog.
+a person and a dog, the person is bigger than the dog.
+a banana and a car, the banana is smaller than the car.
+a chair and a banana, the chair is bigger than the banana.
+a person and a airplane, the person is smaller than the airplane.
+a airplane and a banana, the airplane is larger than the banana.
+a car and a cat, the car is bigger than the cat.
+a cat and a car, the cat is smaller than the car.
+a person and a dog, the person is bigger than the dog.
+a airplane and a chair, the airplane is smaller than the chair.
+a person and a horse, the person is larger than the horse.
+a car and a horse, the car is bigger than the horse.
+a chair and a cat, the chair is larger than the cat.
+a dog and a banana, the dog is smaller than the banana.
+a person and a dog, the person is smaller than the dog.
+a chair and a banana, the chair is larger than the banana.
+a person and a banana, the person is smaller than the banana.
+a chair and a horse, the chair is bigger than the horse.
+a chair and a car, the chair is larger than the car.
+a banana and a person, the banana is smaller than the person.
+a dog and a chair, the dog is smaller than the chair.
+a car and a cat, the car is bigger than the cat.
+a car and a cat, the car is larger than the cat.
+a person and a chair, the person is smaller than the chair.
+a cat and a horse, the cat is larger than the horse.
+a horse and a car, the horse is bigger than the car.
+a chair and a airplane, the chair is larger than the airplane.
+a cat and a airplane, the cat is bigger than the airplane.
+a banana and a airplane, the banana is bigger than the airplane.
+a airplane and a person, the airplane is smaller than the person.
+a cat and a chair, the cat is bigger than the chair.
+a person and a dog, the person is smaller than the dog.
+a banana and a chair, the banana is smaller than the chair.
+a car and a dog, the car is larger than the dog.
+a horse and a car, the horse is bigger than the car.
+a dog and a banana, the dog is bigger than the banana.
+a person and a airplane, the person is bigger than the airplane.
+a chair and a airplane, the chair is bigger than the airplane.
+a chair and a cat, the chair is smaller than the cat.
+a car and a cat, the car is bigger than the cat.
+a dog and a banana, the dog is smaller than the banana.
+a airplane and a banana, the airplane is larger than the banana.
+a banana and a cat, the banana is smaller than the cat.
+a dog and a car, the dog is smaller than the car.
+a person and a car, the person is bigger than the car.
+a dog and a person, the dog is smaller than the person.
+a cat and a banana, the cat is smaller than the banana.
+a car and a dog, the car is smaller than the dog.
+a cat and a horse, the cat is smaller than the horse.
+a banana and a cat, the banana is bigger than the cat.
+a horse and a cat, the horse is larger than the cat.
+a banana and a cat, the banana is bigger than the cat.
+a car and a airplane, the car is bigger than the airplane.
+a dog and a person, the dog is smaller than the person.
+a car and a cat, the car is larger than the cat.
+a horse and a car, the horse is bigger than the car.
+a horse and a person, the horse is smaller than the person.
+a banana and a horse, the banana is smaller than the horse.
+a cat and a chair, the cat is larger than the chair.
+a airplane and a cat, the airplane is smaller than the cat.
+a chair and a airplane, the chair is larger than the airplane.
+a dog and a chair, the dog is smaller than the chair.
+a airplane and a horse, the airplane is larger than the horse.
+a car and a cat, the car is larger than the cat.
+a banana and a person, the banana is larger than the person.
+a horse and a cat, the horse is smaller than the cat.
+a person and a horse, the person is smaller than the horse.
+a airplane and a cat, the airplane is bigger than the cat.
+a person and a horse, the person is bigger than the horse.
+a airplane and a horse, the airplane is bigger than the horse.
+a horse and a airplane, the horse is smaller than the airplane.
+a chair and a car, the chair is smaller than the car.
+a chair and a car, the chair is bigger than the car.
+a dog and a chair, the dog is larger than the chair.
+a dog and a horse, the dog is larger than the horse.
+a banana and a car, the banana is larger than the car.
+a chair and a banana, the chair is smaller than the banana.
+a horse and a airplane, the horse is bigger than the airplane.
+a chair and a car, the chair is bigger than the car.
+a person and a horse, the person is larger than the horse.
+a airplane and a cat, the airplane is bigger than the cat.
+a airplane and a banana, the airplane is smaller than the banana.
+a cat and a airplane, the cat is bigger than the airplane.
+a airplane and a dog, the airplane is bigger than the dog.
+a banana and a cat, the banana is larger than the cat.
+a cat and a person, the cat is larger than the person.
+a person and a dog, the person is larger than the dog.
+a airplane and a chair, the airplane is smaller than the chair.
+a chair and a car, the chair is larger than the car.
+a dog and a cat, the dog is bigger than the cat.
+a airplane and a horse, the airplane is bigger than the horse.
+a car and a dog, the car is bigger than the dog.
+a banana and a person, the banana is larger than the person.
+a chair and a airplane, the chair is bigger than the airplane.
+a car and a banana, the car is larger than the banana.
+a dog and a banana, the dog is bigger than the banana.
+a airplane and a chair, the airplane is larger than the chair.
+a dog and a horse, the dog is larger than the horse.
+a chair and a cat, the chair is larger than the cat.
+a car and a chair, the car is bigger than the chair.
+a airplane and a dog, the airplane is bigger than the dog.
+a horse and a chair, the horse is smaller than the chair.
+a cat and a person, the cat is bigger than the person.
+a dog and a airplane, the dog is smaller than the airplane.
+a car and a airplane, the car is larger than the airplane.
+a banana and a cat, the banana is larger than the cat.
+a banana and a cat, the banana is larger than the cat.
+a airplane and a cat, the airplane is larger than the cat.
+a chair and a horse, the chair is smaller than the horse.
+a airplane and a person, the airplane is smaller than the person.
+a horse and a car, the horse is larger than the car.
+a car and a chair, the car is smaller than the chair.
+a horse and a airplane, the horse is larger than the airplane.
+a cat and a airplane, the cat is smaller than the airplane.
+a person and a banana, the person is smaller than the banana.
+a airplane and a person, the airplane is smaller than the person.
+a cat and a horse, the cat is smaller than the horse.
+a horse and a chair, the horse is larger than the chair.
+a car and a dog, the car is bigger than the dog.
+a horse and a airplane, the horse is bigger than the airplane.
+a horse and a banana, the horse is bigger than the banana.
+a chair and a banana, the chair is larger than the banana.
+a car and a airplane, the car is bigger than the airplane.
+a dog and a cat, the dog is smaller than the cat.
+a chair and a cat, the chair is larger than the cat.
+a cat and a airplane, the cat is smaller than the airplane.
+a banana and a airplane, the banana is smaller than the airplane.
+a horse and a chair, the horse is bigger than the chair.
+a dog and a chair, the dog is bigger than the chair.
+a car and a horse, the car is larger than the horse.
+a dog and a horse, the dog is larger than the horse.
+a car and a banana, the car is bigger than the banana.
+a chair and a person, the chair is larger than the person.
+a car and a dog, the car is smaller than the dog.
+a cat and a airplane, the cat is larger than the airplane.
+a dog and a cat, the dog is larger than the cat.
+a airplane and a person, the airplane is larger than the person.
+a dog and a airplane, the dog is smaller than the airplane.
+a person and a cat, the person is larger than the cat.
+a airplane and a banana, the airplane is larger than the banana.
+a car and a dog, the car is bigger than the dog.
+a airplane and a cat, the airplane is larger than the cat.
+a dog and a chair, the dog is bigger than the chair.
+a horse and a banana, the horse is bigger than the banana.
+a person and a airplane, the person is smaller than the airplane.
+a banana and a airplane, the banana is smaller than the airplane.
+a horse and a car, the horse is larger than the car.
+a chair and a car, the chair is smaller than the car.
+a horse and a cat, the horse is bigger than the cat.
+a chair and a cat, the chair is bigger than the cat.
+a airplane and a dog, the airplane is bigger than the dog.
+a airplane and a cat, the airplane is smaller than the cat.
+a airplane and a car, the airplane is smaller than the car.
+a airplane which is smaller than a person and bigger than dog.
+a banana which is bigger than a car and larger than dog.
+a banana which is larger than a dog and smaller than airplane.
+a banana which is bigger than a person and smaller than car.
+a banana which is larger than a cat and bigger than chair.
+a cat which is bigger than a banana and larger than chair.
+a car which is smaller than a chair and larger than cat.
+a chair which is larger than a banana and smaller than car.
+a dog which is smaller than a chair and bigger than person.
+a chair which is larger than a airplane and bigger than car.
+a airplane which is bigger than a chair and larger than person.
+a chair which is smaller than a banana and bigger than person.
+a airplane which is smaller than a chair and larger than dog.
+a person which is bigger than a dog and smaller than car.
+a dog which is smaller than a car and bigger than banana.
+a banana which is smaller than a airplane and bigger than horse.
+a airplane which is bigger than a banana and smaller than car.
+a dog which is larger than a airplane and smaller than banana.
+a airplane which is bigger than a cat and smaller than car.
+a horse which is larger than a person and bigger than chair.
+a banana which is smaller than a dog and larger than car.
+a horse which is larger than a car and smaller than dog.
+a car which is smaller than a person and bigger than chair.
+a dog which is smaller than a chair and bigger than airplane.
+a horse which is smaller than a dog and bigger than chair.
+a cat which is larger than a horse and bigger than airplane.
+a banana which is bigger than a chair and larger than car.
+a banana which is larger than a chair and bigger than dog.
+a dog which is smaller than a chair and bigger than banana.
+a banana which is larger than a dog and smaller than horse.
+a car which is larger than a horse and smaller than banana.
+a dog which is bigger than a person and smaller than airplane.
+a airplane which is larger than a chair and smaller than dog.
+a person which is larger than a cat and smaller than chair.
+a airplane which is smaller than a dog and larger than chair.
+a car which is larger than a person and bigger than horse.
+a cat which is smaller than a dog and larger than horse.
+a chair which is smaller than a airplane and bigger than person.
+a horse which is bigger than a car and smaller than cat.
+a car which is larger than a dog and smaller than banana.
+a airplane which is bigger than a banana and smaller than dog.
+a airplane which is larger than a dog and smaller than cat.
+a chair which is larger than a horse and bigger than person.
+a person which is smaller than a cat and larger than chair.
+a banana which is smaller than a chair and larger than dog.
+a airplane which is smaller than a chair and bigger than banana.
+a horse which is bigger than a chair and smaller than banana.
+a horse which is bigger than a banana and smaller than person.
+a banana which is bigger than a cat and smaller than chair.
+a cat which is larger than a horse and smaller than car.
+a chair which is larger than a cat and bigger than airplane.
+a horse which is larger than a chair and bigger than person.
+a horse which is larger than a person and bigger than banana.
+a chair which is smaller than a car and bigger than cat.
+a banana which is bigger than a chair and smaller than horse.
+a dog which is bigger than a cat and larger than airplane.
+a banana which is smaller than a cat and bigger than horse.
+a car which is bigger than a cat and larger than horse.
+a horse which is larger than a airplane and bigger than cat.
+a horse which is smaller than a chair and larger than car.
+a dog which is smaller than a horse and larger than car.
+a cat which is larger than a banana and smaller than person.
+a banana which is larger than a cat and smaller than person.
+a horse which is smaller than a person and larger than cat.
+a banana which is bigger than a dog and smaller than chair.
+a banana which is bigger than a airplane and larger than chair.
+a chair which is smaller than a cat and larger than banana.
+a airplane which is bigger than a horse and larger than car.
+a airplane which is larger than a person and bigger than car.
+a cat which is bigger than a person and smaller than banana.
+a cat which is bigger than a car and smaller than horse.
+a banana which is bigger than a car and smaller than cat.
+a airplane which is larger than a car and smaller than person.
+a horse which is larger than a cat and bigger than chair.
+a car which is bigger than a airplane and larger than chair.
+a airplane which is smaller than a person and bigger than chair.
+a chair which is larger than a horse and bigger than person.
+a horse which is larger than a chair and smaller than cat.
+a car which is smaller than a banana and larger than cat.
+a cat which is larger than a chair and smaller than dog.
+a horse which is smaller than a car and bigger than dog.
+a banana which is bigger than a cat and smaller than airplane.
+a cat which is smaller than a chair and larger than dog.
+a person which is bigger than a dog and smaller than chair.
+a car which is larger than a dog and bigger than person.
+a person which is larger than a horse and bigger than chair.
+a chair which is smaller than a airplane and bigger than dog.
+a chair which is larger than a car and smaller than banana.
+a horse which is smaller than a dog and bigger than cat.
+a banana which is larger than a chair and bigger than cat.
+a horse which is bigger than a cat and larger than car.
+a chair which is smaller than a banana and larger than person.
+a banana which is larger than a dog and smaller than cat.
+a car which is larger than a horse and bigger than person.
+a person which is smaller than a chair and larger than horse.
+a person which is smaller than a horse and bigger than cat.
+a cat which is bigger than a person and smaller than car.
+a horse which is smaller than a airplane and larger than car.
+a airplane which is bigger than a person and larger than chair.
+a banana which is smaller than a dog and larger than airplane.
+a person which is bigger than a cat and smaller than chair.
+a airplane which is smaller than a banana and larger than chair.
+a airplane which is bigger than a dog and smaller than chair.
+a horse which is bigger than a person and smaller than airplane.
+a banana which is smaller than a airplane and larger than horse.
+a person which is larger than a cat and smaller than dog.
+a car which is bigger than a dog and larger than horse.
+a dog which is smaller than a banana and larger than person.
+a car which is larger than a banana and bigger than horse.
+a cat which is smaller than a person and larger than airplane.
+a horse which is smaller than a cat and bigger than car.
+a airplane which is larger than a chair and smaller than dog.
+a dog which is smaller than a person and bigger than car.
+a banana which is smaller than a cat and larger than person.
+a dog which is bigger than a banana and larger than person.
+a person which is bigger than a airplane and larger than chair.
+a dog which is smaller than a person and larger than car.
+a banana which is larger than a chair and bigger than cat.
+a banana which is larger than a chair and smaller than dog.
+a airplane which is larger than a horse and bigger than chair.
+a horse which is smaller than a banana and larger than person.
+a person which is larger than a car and bigger than airplane.
+a banana which is smaller than a person and larger than chair.
+a horse which is larger than a banana and bigger than airplane.
+a cat which is larger than a banana and smaller than horse.
+a airplane which is bigger than a person and smaller than cat.
+a dog which is larger than a chair and smaller than horse.
+a car which is larger than a horse and bigger than person.
+a airplane which is smaller than a person and bigger than horse.
+a cat which is larger than a car and bigger than airplane.
+a banana which is bigger than a airplane and larger than chair.
+a banana which is smaller than a person and bigger than car.
+a horse which is smaller than a banana and bigger than chair.
+a dog which is bigger than a cat and smaller than banana.
+a chair which is bigger than a car and larger than dog.
+a airplane which is smaller than a car and bigger than cat.
+a horse which is larger than a person and bigger than cat.
+a dog which is larger than a airplane and smaller than banana.
+a banana which is smaller than a horse and larger than dog.
+a horse which is smaller than a banana and larger than person.
+a dog which is larger than a person and bigger than banana.
+a car which is smaller than a horse and larger than cat.
+a cat which is smaller than a chair and larger than horse.
+a banana which is smaller than a airplane and larger than horse.
+a horse which is bigger than a banana and smaller than chair.
+a car which is smaller than a dog and larger than airplane.
+a cat which is larger than a person and bigger than dog.
+a banana which is bigger than a dog and larger than person.
+a dog which is larger than a horse and smaller than airplane.
+a horse which is bigger than a dog and larger than car.
+a horse which is bigger than a car and larger than banana.
+a cat which is bigger than a horse and larger than dog.
+a banana which is bigger than a horse and larger than dog.
+a chair which is smaller than a horse and bigger than car.
+a person which is larger than a horse and bigger than car.
+a horse which is bigger than a car and larger than cat.
+a chair which is larger than a car and smaller than banana.
+a car which is smaller than a airplane and larger than dog.
+a car which is larger than a dog and bigger than airplane.
+a cat which is larger than a car and smaller than person.
+a cat which is larger than a dog and bigger than person.
+a banana which is larger than a car and bigger than dog.
+a car which is bigger than a cat and larger than banana.
+a person which is bigger than a dog and larger than cat.
+a chair which is bigger than a person and smaller than car.
+a horse which is smaller than a cat and larger than dog.
+a airplane which is bigger than a person and smaller than horse.
+a car which is larger than a chair and banana and smaller than dog.
+a person which is larger than a banana and cat and bigger than airplane.
+a cat which is smaller than a banana and chair and bigger than horse.
+a airplane which is bigger than a cat and banana and smaller than chair.
+a person which is bigger than a dog and chair and smaller than banana.
+a car which is smaller than a airplane and cat and larger than dog.
+a person which is bigger than a car and chair and smaller than airplane.
+a person which is larger than a horse and airplane and bigger than cat.
+a car which is larger than a banana and dog and smaller than chair.
+a airplane which is bigger than a chair and cat and smaller than horse.
+a car which is larger than a horse and airplane and bigger than dog.
+a car which is larger than a horse and airplane and bigger than chair.
+a car which is larger than a horse and cat and bigger than dog.
+a person which is bigger than a cat and airplane and larger than car.
+a car which is larger than a dog and banana and bigger than chair.
+a person which is smaller than a car and chair and bigger than cat.
+a dog which is bigger than a horse and chair and smaller than banana.
+a airplane which is larger than a cat and banana and bigger than chair.
+a person which is larger than a dog and banana and bigger than chair.
+a car which is smaller than a banana and dog and bigger than horse.
+a cat which is larger than a banana and chair and smaller than horse.
+a person which is bigger than a cat and banana and larger than car.
+a person which is larger than a car and horse and bigger than cat.
+a person which is smaller than a chair and cat and larger than horse.
+a person which is larger than a horse and car and smaller than chair.
+a person which is larger than a chair and car and bigger than banana.
+a car which is smaller than a chair and airplane and larger than horse.
+a person which is larger than a cat and horse and smaller than dog.
+a airplane which is larger than a cat and chair and smaller than horse.
+a airplane which is larger than a cat and horse and bigger than dog.
+a car which is bigger than a cat and horse and smaller than chair.
+a car which is bigger than a chair and horse and larger than dog.
+a person which is bigger than a car and airplane and larger than dog.
+a car which is smaller than a horse and airplane and bigger than banana.
+a cat which is smaller than a horse and banana and larger than chair.
+a car which is smaller than a dog and banana and larger than horse.
+a person which is smaller than a car and airplane and bigger than cat.
+a car which is larger than a horse and cat and bigger than dog.
+a person which is smaller than a chair and car and bigger than banana.
+a car which is larger than a chair and airplane and smaller than horse.
+a cat which is bigger than a horse and chair and larger than dog.
+a person which is smaller than a dog and banana and bigger than car.
+a airplane which is larger than a horse and chair and bigger than dog.
+a person which is larger than a car and cat and smaller than airplane.
+a person which is larger than a horse and dog and bigger than banana.
+a person which is bigger than a car and dog and smaller than horse.
+a cat which is bigger than a dog and chair and larger than horse.
+a dog which is smaller than a horse and chair and bigger than banana.
+a person which is smaller than a dog and horse and bigger than cat.
+a person which is smaller than a banana and chair and larger than airplane.
+a car which is larger than a dog and cat and bigger than chair.
+a person which is bigger than a airplane and dog and smaller than horse.
+a person which is bigger than a horse and banana and larger than chair.
+a person which is larger than a chair and car and bigger than airplane.
+a person which is larger than a cat and banana and bigger than dog.
+a person which is larger than a dog and horse and bigger than airplane.
+a airplane which is bigger than a chair and horse and larger than cat.
+a airplane which is smaller than a dog and horse and larger than banana.
+a airplane which is smaller than a horse and chair and larger than dog.
+a airplane which is bigger than a dog and chair and larger than cat.
+a person which is bigger than a horse and airplane and smaller than chair.
+a car which is bigger than a airplane and horse and larger than dog.
+a person which is bigger than a car and chair and smaller than dog.
+a person which is larger than a dog and cat and bigger than banana.
+a car which is smaller than a airplane and cat and bigger than chair.
+a person which is larger than a banana and car and bigger than chair.
+a person which is larger than a cat and banana and smaller than car.
+a person which is bigger than a horse and car and larger than cat.
+a person which is smaller than a dog and cat and larger than horse.
+a person which is smaller than a dog and horse and bigger than chair.
+a person which is bigger than a car and horse and smaller than dog.
+a car which is smaller than a horse and banana and larger than chair.
+a cat which is bigger than a banana and chair and larger than horse.
+a airplane which is bigger than a banana and cat and larger than horse.
+a person which is smaller than a horse and banana and larger than cat.
+a car which is larger than a cat and horse and bigger than banana.
+a person which is larger than a horse and cat and bigger than dog.
+a car which is smaller than a horse and dog and bigger than chair.
+a airplane which is larger than a cat and chair and bigger than dog.
+a airplane which is bigger than a chair and dog and smaller than horse.
+a cat which is smaller than a chair and horse and bigger than dog.
+a person which is bigger than a car and horse and larger than cat.
+a person which is smaller than a airplane and horse and bigger than dog.
+a airplane which is smaller than a chair and dog and larger than banana.
+a person which is smaller than a cat and car and bigger than airplane.
+a person which is larger than a car and cat and smaller than banana.
+a person which is bigger than a car and dog and larger than chair.
+a person which is larger than a horse and banana and smaller than cat.
+a person which is smaller than a chair and horse and larger than dog.
+a person which is bigger than a car and horse and smaller than cat.
+a airplane which is smaller than a cat and banana and larger than chair.
+a person which is bigger than a dog and cat and smaller than chair.
+a airplane which is larger than a chair and dog and smaller than horse.
+a person which is larger than a airplane and cat and bigger than banana.
+a airplane which is larger than a chair and banana and smaller than cat.
+a cat which is smaller than a horse and dog and larger than chair.
+a airplane which is bigger than a cat and banana and smaller than chair.
+a person which is bigger than a chair and horse and larger than banana.
+a airplane which is bigger than a chair and cat and larger than banana.
+a car which is larger than a horse and cat and bigger than banana.
+a person which is smaller than a banana and dog and bigger than horse.
+a person which is smaller than a airplane and dog and bigger than horse.
+a car which is bigger than a cat and chair and smaller than banana.
+a person which is bigger than a banana and chair and smaller than airplane.
+a car which is smaller than a cat and airplane and larger than chair.
+a person which is bigger than a banana and car and larger than horse.
+a cat which is smaller than a dog and chair and bigger than banana.
+a person which is smaller than a chair and horse and larger than car.
+a person which is larger than a chair and banana and smaller than car.
+a person which is bigger than a cat and horse and larger than banana.
+a person which is larger than a horse and chair and bigger than dog.
+a cat which is bigger than a horse and dog and larger than chair.
+a car which is smaller than a banana and chair and bigger than dog.
+a cat which is bigger than a dog and horse and smaller than banana.
+a person which is smaller than a car and cat and bigger than banana.
+a car which is bigger than a cat and horse and larger than banana.
+a car which is bigger than a banana and dog and smaller than cat.
+a car which is smaller than a chair and dog and bigger than cat.
+a person which is larger than a dog and car and bigger than chair.
+a car which is smaller than a cat and airplane and bigger than dog.
+a cat which is larger than a chair and horse and bigger than dog.
+a person which is bigger than a horse and car and larger than airplane.
+a person which is smaller than a horse and chair and bigger than car.
+a car which is bigger than a cat and dog and smaller than chair.
+a person which is bigger than a airplane and cat and smaller than dog.
+a person which is smaller than a dog and banana and larger than chair.
+a person which is smaller than a airplane and car and larger than horse.
+a person which is larger than a dog and cat and smaller than banana.
+a person which is bigger than a car and banana and smaller than cat.
+a person which is smaller than a car and banana and bigger than airplane.
+a person which is larger than a banana and dog and smaller than car.
+a person which is larger than a car and banana and smaller than chair.
+a car which is bigger than a dog and cat and smaller than horse.
+a car which is bigger than a cat and horse and larger than airplane.
+a cat which is larger than a dog and horse and bigger than banana.
+a car which is smaller than a banana and chair and bigger than airplane.
+a person which is larger than a car and airplane and smaller than cat.
+a car which is larger than a chair and banana and bigger than airplane.
+a person which is larger than a banana and cat and smaller than airplane.
+a car which is bigger than a airplane and banana and larger than chair.
+a person which is larger than a chair and cat and smaller than dog.
+a airplane which is larger than a horse and dog and smaller than chair.
+a car which is smaller than a banana and cat and larger than dog.
+a airplane which is smaller than a cat and horse and larger than dog.
+a car which is smaller than a banana and horse and bigger than cat.
+a car which is larger than a cat and banana and bigger than chair.
+a airplane which is smaller than a horse and banana and bigger than cat.
+a person which is smaller than a horse and dog and bigger than car.
+a person which is larger than a cat and car and smaller than chair.
+a person which is bigger than a airplane and dog and smaller than chair.
+a airplane which is bigger than a chair and dog and smaller than banana.
+a car which is bigger than a cat and chair and smaller than horse.
+a person which is bigger than a banana and cat and larger than chair.
+a car which is bigger than a chair and dog and larger than cat.
+a airplane which is smaller than a cat and banana and larger than chair.
+a person which is bigger than a cat and car and smaller than dog.
+a car which is larger than a airplane and horse and bigger than banana.
+a person which is larger than a horse and banana and bigger than dog.
+a car which is smaller than a airplane and chair and bigger than horse.
+a person which is larger than a airplane and dog and bigger than cat.
+a car which is larger than a banana and cat and smaller than airplane.
+a person which is bigger than a car and horse and smaller than cat.
+a person which is bigger than a banana and cat and larger than car.
+a person which is smaller than a dog and car and bigger than cat.
+a car which is smaller than a cat and airplane and larger than dog.
+a person which is larger than a car and dog and smaller than horse.
+a person which is bigger than a banana and dog and smaller than cat.

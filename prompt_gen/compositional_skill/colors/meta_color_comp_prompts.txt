@@ -1,0 +1,501 @@
+a red banana and a green chair.
+a yellow chair and a blue cat.
+a green horse and a blue chair.
+a blue cat and a orange chair.
+a red cat and a yellow banana.
+a blue horse and a red cat.
+a blue cat and a red airplane.
+a orange dog and a green cat.
+a yellow banana and a orange car.
+a red banana and a green cat.
+a green banana and a yellow chair.
+a blue airplane and a red cat.
+a blue chair and a orange airplane.
+a yellow chair and a orange airplane.
+a blue dog and a green person.
+a green chair and a red horse.
+a blue dog and a yellow airplane.
+a orange airplane and a green person.
+a yellow dog and a red horse.
+a red airplane and a green dog.
+a orange car and a blue chair.
+a red chair and a yellow dog.
+a green airplane and a orange person.
+a red chair and a blue car.
+a orange horse and a yellow banana.
+a green dog and a red person.
+a red chair and a yellow car.
+a yellow airplane and a blue horse.
+a yellow horse and a orange car.
+a blue airplane and a green chair.
+a green car and a blue chair.
+a red cat and a blue dog.
+a yellow chair and a orange banana.
+a yellow cat and a orange car.
+a orange car and a red cat.
+a orange person and a green banana.
+a yellow chair and a orange person.
+a green banana and a blue chair.
+a blue person and a green car.
+a red airplane and a green chair.
+a orange cat and a red person.
+a yellow car and a green chair.
+a yellow car and a red horse.
+a yellow banana and a red car.
+a red airplane and a green person.
+a orange chair and a blue airplane.
+a green chair and a blue car.
+a green airplane and a blue person.
+a blue dog and a green airplane.
+a green car and a yellow chair.
+a blue airplane and a yellow person.
+a green dog and a red chair.
+a blue dog and a red person.
+a green chair and a orange banana.
+a blue airplane and a orange chair.
+a red cat and a orange banana.
+a red banana and a orange person.
+a yellow cat and a orange airplane.
+a orange horse and a green car.
+a red airplane and a green horse.
+a green dog and a red banana.
+a red horse and a green person.
+a yellow person and a orange cat.
+a yellow car and a red banana.
+a green chair and a red horse.
+a orange horse and a green chair.
+a green person and a yellow dog.
+a red banana and a blue airplane.
+a green dog and a blue chair.
+a blue car and a yellow airplane.
+a blue banana and a orange car.
+a red dog and a green banana.
+a green dog and a yellow chair.
+a orange car and a yellow airplane.
+a blue dog and a yellow person.
+a red airplane and a yellow cat.
+a yellow banana and a green chair.
+a red cat and a orange airplane.
+a red banana and a green dog.
+a orange horse and a yellow chair.
+a yellow airplane and a blue person.
+a red person and a blue cat.
+a orange chair and a yellow person.
+a yellow dog and a blue chair.
+a green banana and a red airplane.
+a blue car and a yellow cat.
+a red airplane and a green cat.
+a orange car and a yellow horse.
+a green chair and a yellow banana.
+a green dog and a yellow chair.
+a orange banana and a blue chair.
+a orange banana and a red person.
+a blue cat and a orange dog.
+a red chair and a yellow airplane.
+a yellow chair and a blue airplane.
+a red banana and a yellow airplane.
+a red horse and a orange airplane.
+a yellow horse and a orange car.
+a yellow banana and a blue person.
+a red person and a orange dog.
+a red banana and a blue airplane.
+a yellow chair and a orange horse.
+a green banana and a red car.
+a yellow chair and a blue dog.
+a red cat and a yellow horse.
+a orange cat and a red car.
+a yellow banana and a red car.
+a blue chair and a yellow airplane.
+a red horse and a orange person.
+a red dog and a blue person.
+a yellow horse and a red chair.
+a yellow cat and a blue horse.
+a yellow car and a orange chair.
+a yellow dog and a blue chair.
+a green banana and a orange dog.
+a red dog and a yellow chair.
+a green airplane and a yellow cat.
+a red chair and a green horse.
+a blue airplane and a green car.
+a yellow airplane and a blue chair.
+a yellow dog and a blue chair.
+a orange dog and a red airplane.
+a green chair and a blue airplane.
+a red horse and a orange chair.
+a yellow airplane and a orange chair.
+a yellow person and a green horse.
+a green chair and a blue cat.
+a orange cat and a yellow person.
+a green car and a blue horse.
+a red dog and a blue horse.
+a red banana and a blue car.
+a red horse and a orange banana.
+a green horse and a blue car.
+a red horse and a orange chair.
+a yellow banana and a orange person.
+a red banana and a blue person.
+a orange chair and a blue car.
+a green banana and a red car.
+a green chair and a yellow car.
+a red cat and a green dog.
+a red car and a green cat.
+a blue chair and a orange car.
+a green dog and a yellow person.
+a green horse and a blue dog.
+a green banana and a red airplane.
+a red dog and a orange chair.
+a red dog and a orange airplane.
+a green cat and a red dog.
+a red banana and a orange dog.
+a yellow car and a orange banana.
+a orange dog and a blue cat.
+a orange airplane and a yellow banana.
+a blue dog and a yellow horse.
+a yellow cat and a green chair.
+a yellow airplane and a blue banana.
+a red horse and a orange dog.
+a blue horse and a red cat.
+a yellow airplane and a red banana.
+a blue dog and a red banana.
+a orange person and a red horse.
+a orange car and a yellow airplane.
+a orange person and a red horse.
+a yellow dog and a green person.
+a blue dog and a green person.
+a blue banana and a orange dog.
+a red banana and a green dog.
+a blue person and a red chair.
+a green cat, a red horse and a blue airplane.
+a blue chair, a green cat and a yellow banana.
+a yellow person, a green cat and a orange airplane.
+a yellow chair, a red dog and a blue cat.
+a blue horse, a red chair and a orange person.
+a blue car, a red airplane and a yellow dog.
+a red banana, a blue dog and a yellow car.
+a blue airplane, a red horse and a orange dog.
+a blue chair, a orange cat and a green banana.
+a blue person, a red car and a green chair.
+a blue banana, a red person and a orange chair.
+a green banana, a orange person and a red airplane.
+a yellow person, a green cat and a blue banana.
+a red cat, a orange horse and a blue dog.
+a red horse, a yellow person and a green chair.
+a blue banana, a green cat and a orange horse.
+a green car, a red dog and a orange banana.
+a blue person, a orange horse and a red cat.
+a red horse, a orange banana and a blue car.
+a orange airplane, a red horse and a green dog.
+a blue horse, a green person and a yellow dog.
+a yellow chair, a blue cat and a green person.
+a red chair, a orange cat and a blue person.
+a yellow airplane, a orange cat and a green chair.
+a red car, a green horse and a orange dog.
+a blue banana, a red car and a orange cat.
+a green chair, a blue airplane and a orange dog.
+a yellow person, a red horse and a orange dog.
+a orange chair, a yellow car and a red person.
+a red person, a green dog and a blue banana.
+a green person, a blue banana and a red car.
+a orange person, a red banana and a blue chair.
+a blue banana, a orange cat and a red person.
+a yellow car, a green cat and a orange chair.
+a yellow chair, a red person and a blue dog.
+a red person, a yellow car and a green horse.
+a blue car, a yellow cat and a green banana.
+a red dog, a blue cat and a orange person.
+a blue car, a yellow banana and a orange airplane.
+a orange dog, a blue chair and a red person.
+a green horse, a blue airplane and a red car.
+a yellow person, a blue car and a orange banana.
+a orange airplane, a red car and a blue cat.
+a green cat, a yellow car and a red dog.
+a red person, a green car and a yellow banana.
+a red airplane, a orange chair and a blue cat.
+a yellow car, a blue dog and a red person.
+a blue horse, a green dog and a red banana.
+a blue chair, a orange dog and a yellow car.
+a blue cat, a red airplane and a green chair.
+a blue cat, a orange chair and a red airplane.
+a blue airplane, a red chair and a yellow person.
+a red cat, a blue airplane and a yellow banana.
+a blue person, a green car and a orange airplane.
+a yellow cat, a green airplane and a blue person.
+a red person, a blue cat and a green chair.
+a green cat, a blue banana and a red person.
+a blue person, a orange banana and a red airplane.
+a red cat, a green dog and a yellow chair.
+a red car, a blue horse and a green airplane.
+a blue dog, a red car and a orange person.
+a orange airplane, a red dog and a green car.
+a green dog, a orange airplane and a yellow banana.
+a green banana, a blue chair and a red dog.
+a red chair, a yellow dog and a orange car.
+a green chair, a blue car and a red person.
+a orange banana, a blue horse and a red chair.
+a yellow horse, a blue airplane and a red cat.
+a blue banana, a orange person and a red chair.
+a yellow chair, a blue banana and a green cat.
+a red dog, a orange banana and a blue airplane.
+a orange dog, a green horse and a red car.
+a orange airplane, a red chair and a blue dog.
+a orange chair, a blue person and a yellow banana.
+a blue chair, a orange car and a yellow horse.
+a orange banana, a red horse and a blue person.
+a blue cat, a yellow airplane and a red banana.
+a yellow airplane, a red banana and a green chair.
+a orange cat, a green chair and a red person.
+a red chair, a green airplane and a blue cat.
+a yellow airplane, a red person and a green horse.
+a orange person, a blue banana and a yellow chair.
+a orange dog, a yellow car and a green chair.
+a green horse, a yellow dog and a blue banana.
+a yellow car, a green dog and a red horse.
+a orange cat, a red horse and a yellow dog.
+a green car, a orange dog and a blue person.
+a yellow cat, a blue banana and a green person.
+a green car, a orange person and a blue horse.
+a green banana, a yellow dog and a orange cat.
+a blue cat, a green car and a orange dog.
+a yellow banana, a blue dog and a green person.
+a orange car, a green horse and a yellow cat.
+a yellow car, a red horse and a orange cat.
+a orange banana, a blue airplane and a yellow horse.
+a blue cat, a orange chair and a yellow dog.
+a green cat, a red car and a blue chair.
+a red banana, a green cat and a orange dog.
+a orange cat, a red dog and a blue chair.
+a green chair, a orange person and a blue dog.
+a red horse, a blue chair and a yellow dog.
+a yellow horse, a orange car and a green chair.
+a green horse, a red dog and a orange cat.
+a red airplane, a green cat and a blue horse.
+a orange banana, a red airplane and a green person.
+a green chair, a orange horse and a red banana.
+a orange dog, a red horse and a blue car.
+a red person, a blue cat and a yellow chair.
+a orange chair, a green cat and a blue person.
+a blue chair, a orange banana and a yellow horse.
+a green car, a red cat and a yellow airplane.
+a orange chair, a yellow person and a red horse.
+a yellow chair, a green cat and a red banana.
+a green cat, a red chair and a yellow horse.
+a yellow horse, a blue dog and a orange car.
+a red chair, a green person and a yellow cat.
+a orange chair, a blue car and a yellow banana.
+a orange person, a green horse and a blue car.
+a orange banana, a yellow cat and a green person.
+a red chair, a green banana and a blue dog.
+a yellow chair, a blue dog and a green person.
+a green cat, a red chair and a yellow banana.
+a orange chair, a green person and a yellow banana.
+a red cat, a orange airplane and a blue chair.
+a red chair, a orange airplane and a yellow dog.
+a green airplane, a blue dog and a red horse.
+a green car, a blue horse and a red airplane.
+a blue banana, a orange car and a red person.
+a yellow chair, a orange banana and a blue cat.
+a yellow person, a red cat and a blue banana.
+a green dog, a blue banana and a yellow airplane.
+a green cat, a yellow horse and a orange banana.
+a green car, a orange cat and a red banana.
+a yellow airplane, a orange cat and a green banana.
+a yellow airplane, a green dog and a orange person.
+a blue banana, a green person and a red airplane.
+a blue person, a green chair and a red car.
+a blue person, a orange cat and a red airplane.
+a blue horse, a red cat and a orange car.
+a blue horse, a green airplane and a red cat.
+a yellow chair, a red horse and a blue cat.
+a red cat, a blue car and a yellow person.
+a yellow airplane, a orange horse and a green person.
+a orange horse, a green cat and a red person.
+a red horse, a orange airplane and a green person.
+a orange car, a red horse and a yellow chair.
+a red banana, a blue dog and a green horse.
+a yellow car, a red cat and a blue banana.
+a blue airplane, a green horse and a yellow person.
+a green banana, a red person and a orange airplane.
+a yellow airplane, a red chair and a orange dog.
+a red banana, a orange airplane and a green car.
+a yellow chair, a blue horse and a red cat.
+a yellow person, a orange chair and a red dog.
+a yellow car, a orange horse and a green chair.
+a yellow dog, a orange horse and a red car.
+a yellow car, a orange cat and a red horse.
+a red person, a blue banana and a green horse.
+a orange cat, a blue person and a green dog.
+a blue banana, a green car and a yellow horse.
+a blue dog, a red cat and a orange horse.
+a red airplane, a yellow dog and a blue car.
+a red person, a blue chair and a orange dog.
+a red person, a green horse and a blue car.
+a orange person, a red dog and a yellow banana.
+a yellow horse, a red banana and a blue person.
+a orange car, a red cat and a blue chair.
+a red cat, a yellow banana, a blue dog and a orange horse.
+a green person, a red cat, a orange chair and a blue airplane.
+a blue car, a yellow banana, a green cat and a red airplane.
+a blue car, a green horse, a red cat and a yellow chair.
+a green person, a yellow horse, a red cat and a blue dog.
+a red person, a green car, a yellow cat and a blue horse.
+a red dog, a yellow horse, a orange chair and a green banana.
+a red person, a blue airplane, a yellow car and a orange banana.
+a blue person, a red airplane, a orange chair and a yellow dog.
+a yellow car, a orange horse, a blue banana and a green airplane.
+a red car, a yellow banana, a blue airplane and a orange chair.
+a orange person, a red car, a green cat and a yellow chair.
+a yellow person, a green banana, a blue car and a red dog.
+a orange person, a blue horse, a red dog and a green airplane.
+a green car, a blue dog, a yellow banana and a red airplane.
+a yellow airplane, a orange horse, a red chair and a blue banana.
+a green airplane, a yellow banana, a blue cat and a red dog.
+a orange airplane, a yellow chair, a red banana and a green cat.
+a blue cat, a red horse, a yellow dog and a orange banana.
+a green car, a yellow dog, a blue banana and a red airplane.
+a blue person, a green car, a yellow cat and a orange dog.
+a blue person, a red dog, a yellow horse and a green car.
+a blue car, a red chair, a yellow banana and a green cat.
+a orange person, a blue horse, a yellow banana and a red chair.
+a blue person, a orange airplane, a red car and a green cat.
+a orange car, a red banana, a yellow chair and a green horse.
+a red car, a orange airplane, a yellow banana and a green chair.
+a orange person, a yellow cat, a blue airplane and a green banana.
+a green person, a orange airplane, a blue car and a red banana.
+a green person, a orange airplane, a red chair and a blue car.
+a orange car, a red cat, a green dog and a yellow horse.
+a yellow car, a green horse, a blue airplane and a red banana.
+a orange person, a blue horse, a green airplane and a red car.
+a red car, a blue banana, a yellow airplane and a green horse.
+a red cat, a blue chair, a yellow banana and a orange dog.
+a orange airplane, a green chair, a yellow horse and a blue dog.
+a orange person, a green cat, a red car and a blue dog.
+a green car, a yellow dog, a orange banana and a red airplane.
+a yellow person, a red cat, a orange chair and a green airplane.
+a green car, a blue airplane, a orange horse and a red cat.
+a blue person, a orange airplane, a red banana and a green dog.
+a orange person, a yellow banana, a red horse and a green car.
+a blue airplane, a red horse, a orange dog and a green cat.
+a orange airplane, a blue horse, a green cat and a red dog.
+a green airplane, a yellow chair, a blue banana and a red horse.
+a yellow person, a red car, a orange chair and a blue dog.
+a blue car, a orange airplane, a green dog and a yellow banana.
+a yellow car, a blue chair, a green cat and a orange horse.
+a yellow person, a green banana, a red dog and a orange airplane.
+a orange car, a green airplane, a yellow chair and a blue dog.
+a blue airplane, a red dog, a green banana and a orange cat.
+a red airplane, a green dog, a yellow cat and a orange horse.
+a orange cat, a blue chair, a green dog and a yellow horse.
+a green person, a orange cat, a red airplane and a yellow dog.
+a green person, a blue horse, a orange dog and a yellow car.
+a yellow airplane, a red banana, a blue horse and a orange cat.
+a green person, a red chair, a blue cat and a orange car.
+a red car, a yellow airplane, a green chair and a orange cat.
+a blue person, a yellow cat, a orange horse and a green car.
+a green person, a red banana, a yellow cat and a orange dog.
+a blue car, a orange airplane, a green banana and a yellow chair.
+a red person, a yellow dog, a green airplane and a orange horse.
+a orange car, a blue horse, a yellow cat and a red airplane.
+a green car, a blue cat, a yellow dog and a orange chair.
+a orange car, a red cat, a green banana and a blue dog.
+a green person, a orange car, a red chair and a blue airplane.
+a yellow car, a blue horse, a red dog and a orange cat.
+a blue person, a red banana, a green airplane and a yellow chair.
+a red cat, a orange dog, a blue banana and a green chair.
+a red person, a green banana, a orange cat and a blue airplane.
+a yellow person, a red cat, a blue chair and a green airplane.
+a yellow person, a blue banana, a red airplane and a orange chair.
+a green airplane, a orange dog, a yellow horse and a blue banana.
+a blue airplane, a green horse, a orange dog and a red banana.
+a yellow car, a red horse, a green dog and a blue chair.
+a red airplane, a yellow chair, a blue cat and a green dog.
+a orange person, a blue dog, a green airplane and a yellow cat.
+a orange person, a yellow banana, a blue horse and a red car.
+a orange car, a blue chair, a yellow airplane and a red horse.
+a red car, a green horse, a yellow cat and a blue dog.
+a orange person, a green dog, a yellow cat and a red horse.
+a blue cat, a orange dog, a yellow chair and a red horse.
+a orange person, a red horse, a blue airplane and a green car.
+a blue person, a red dog, a orange chair and a yellow horse.
+a green person, a blue banana, a orange airplane and a yellow car.
+a green person, a red dog, a yellow cat and a orange car.
+a blue car, a green dog, a yellow horse and a red airplane.
+a yellow airplane, a blue chair, a green dog and a red banana.
+a red cat, a green dog, a orange horse and a yellow chair.
+a green car, a orange cat, a red dog and a yellow horse.
+a red person, a orange horse, a yellow dog and a green cat.
+a yellow person, a blue airplane, a red banana and a orange car.
+a blue person, a red dog, a yellow horse and a orange airplane.
+a green car, a red airplane, a blue horse and a yellow cat.
+a green person, a red horse, a blue chair and a orange cat.
+a orange person, a green banana, a red car and a blue horse.
+a red person, a yellow banana, a blue chair and a orange cat.
+a yellow person, a red dog, a green cat and a orange horse.
+a blue car, a red cat, a green airplane and a yellow chair.
+a red airplane, a green dog, a yellow cat and a orange horse.
+a green person, a yellow airplane, a blue horse and a red banana.
+a orange person, a yellow dog, a red car and a blue cat.
+a blue car, a orange chair, a red airplane and a yellow banana.
+a red person, a blue dog, a green horse and a yellow banana.
+a red person, a yellow dog, a blue car and a green horse.
+a red person, a green banana, a yellow dog and a orange chair.
+a blue car, a green horse, a yellow banana and a red dog.
+a green airplane, a blue chair, a red cat and a yellow horse.
+a orange person, a blue car, a green chair and a red dog.
+a orange person, a yellow cat, a green horse and a blue car.
+a orange person, a yellow horse, a red banana and a green car.
+a green person, a yellow car, a red airplane and a blue banana.
+a green car, a blue airplane, a red banana and a yellow dog.
+a green person, a yellow dog, a red car and a blue horse.
+a blue person, a orange airplane, a green chair and a red banana.
+a red person, a blue airplane, a green dog and a yellow horse.
+a blue car, a green airplane, a red horse and a yellow dog.
+a blue car, a red chair, a yellow airplane and a orange dog.
+a green car, a blue chair, a yellow dog and a red banana.
+a green person, a yellow horse, a blue dog and a orange banana.
+a orange person, a red airplane, a green cat and a blue dog.
+a green cat, a yellow banana, a blue dog and a orange chair.
+a yellow person, a red chair, a blue airplane and a orange car.
+a red person, a yellow cat, a blue chair and a green horse.
+a green car, a red banana, a yellow dog and a blue horse.
+a green person, a yellow car, a orange banana and a red chair.
+a orange cat, a blue dog, a yellow banana and a red horse.
+a red cat, a blue horse, a orange banana and a yellow chair.
+a green person, a red car, a orange banana and a yellow cat.
+a green person, a yellow chair, a orange banana and a blue dog.
+a red airplane, a blue cat, a yellow chair and a green dog.
+a orange car, a red chair, a green airplane and a blue cat.
+a yellow cat, a blue chair, a green horse and a red banana.
+a yellow person, a orange airplane, a red banana and a blue cat.
+a orange airplane, a green chair, a red banana and a yellow cat.
+a blue person, a green chair, a red cat and a orange dog.
+a red airplane, a yellow chair, a blue dog and a orange cat.
+a blue person, a yellow airplane, a red banana and a green dog.
+a yellow car, a red chair, a orange banana and a blue horse.
+a blue person, a green airplane, a red cat and a orange dog.
+a yellow cat, a green horse, a red dog and a blue chair.
+a yellow person, a blue car, a orange cat and a red horse.
+a yellow person, a red banana, a blue horse and a orange dog.
+a yellow person, a green chair, a orange banana and a blue cat.
+a red airplane, a green banana, a orange chair and a blue cat.
+a yellow person, a blue chair, a orange airplane and a red car.
+a green person, a blue dog, a red chair and a orange airplane.
+a orange person, a blue airplane, a red dog and a yellow car.
+a green person, a yellow airplane, a blue chair and a orange horse.
+a green person, a red horse, a blue banana and a orange cat.
+a orange person, a green car, a red dog and a yellow cat.
+a orange car, a yellow horse, a blue dog and a red airplane.
+a yellow person, a red airplane, a blue banana and a orange car.
+a orange person, a green cat, a blue banana and a yellow horse.
+a orange person, a green dog, a red horse and a blue airplane.
+a green person, a blue horse, a red banana and a yellow dog.
+a green airplane, a orange horse, a yellow chair and a blue dog.
+a yellow person, a green horse, a red chair and a blue dog.
+a green person, a orange banana, a red horse and a yellow car.
+a red person, a blue chair, a green cat and a orange dog.
+a green car, a red chair, a orange airplane and a yellow dog.
+a red person, a yellow cat, a green dog and a blue chair.
+a orange dog, a green horse, a red chair and a blue banana.
+a orange person, a green car, a yellow horse and a red banana.
+a orange cat, a blue dog, a yellow banana and a red horse.
+a orange car, a red cat, a yellow banana and a green dog.
+a red person, a green horse, a yellow dog and a blue car.
