@@ -8,7 +8,7 @@ This is the official implementation for our paper
 :clapper: [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://hrsbench.github.io/index.html)
 
 ## :loudspeaker: News
-* **(March 8, 2023):** HRS-Bench is submitted to ICCV 2023.
+* 
 
 ## :books: Synopsis
 
